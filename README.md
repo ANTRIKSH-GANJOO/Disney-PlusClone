@@ -1,4 +1,6 @@
-# hotstar
-Images-and videos
-Star to repo is appreciated.
-This repo only contain images and videos. 
+# Disney Plus Clone
+Technologies Used:
+- HTML
+- CSS
+- JS
+
